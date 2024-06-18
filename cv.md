@@ -1,16 +1,15 @@
 # First and last name
-- ***Oleksii Zaporozhets***
+***Oleksii Zaporozhets***
 
 # Contacts
-[Telegram](@alexname04)
-My Discord: aleks4101
-[Email](aleksname@gmail.com)
-[GitHub](https://github.com/aleksname)
+- [Telegram](@alexname04)
+- My Discord: aleks4101
+- [Email](aleksname@gmail.com)
+- [GitHub](https://github.com/aleksname)
 
 # Personal information
-    <p>
-        Hello, I want to tell a little about my success here, at the moment I am a student of a higher education institution, and I also have a job in an online school teaching computer science to children. I am also working on my educational project, which is a web application using current web technologies ^-^
-    </p>
+    <p>Hello, I want to tell a little about my success here, at the moment I am a student of a higher education institution, and I also have a job in an online school teaching computer science to children. I am also working on my educational project, which is a web application using current web technologies ^-^</p>
+
 # Hard Skill 
 - HTML/CSS
 - Tailwind CSS/SCSS
@@ -38,7 +37,7 @@ const [randomData, setRandomData] = useState([]);
 ```
 # Education
 - institution of higher education ^-^
--[RS School](https://rs.school/)
+- [RS School](https://rs.school/)
 - self-study ^-^
 
 # Language
