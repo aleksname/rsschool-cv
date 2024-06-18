@@ -8,7 +8,7 @@
 - [GitHub](https://github.com/aleksname)
 
 # Personal information
-    <p>Hello, I want to tell a little about my success here, at the moment I am a student of a higher education institution, and I also have a job in an online school teaching computer science to children. I am also working on my educational project, which is a web application using current web technologies ^-^</p>
+    Hello, I want to tell a little about my success here, at the moment I am a student of a higher education institution, and I also have a job in an online school teaching computer science to children. I am also working on my educational project, which is a web application using current web technologies ^-^
 
 # Hard Skill 
 - HTML/CSS
